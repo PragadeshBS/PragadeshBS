@@ -1,6 +1,6 @@
 # Hi there, I am **Pragadesh BS** < :octocat: /> #
 
-Currently studying B.Tech Information Technology at [MIT, Anna University](https://mitindia.edu)
+:book: Currently studying B.Tech Information Technology at MIT, Anna University 
 
 <!--
 **PragadeshBS/PragadeshBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 <div align="center">
-  <h3>Languages, frameworks or tools I use</h3>
+  <h3> :wrench: Languages, frameworks or tools I use</h3>
 
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="img">
@@ -46,12 +46,12 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   </div>
 
-  <h5>Connect with me</h5>
+  <h5> :mailbox: Connect with me</h5>
   <a href="https://in.linkedin.com/in/pragadeshbs"><img src="https://img.icons8.com/color/search/linkedin"></a>
   <a href="mailto:pragadeshbs.pmou2@simplelogin.co"><img src="https://img.icons8.com/color/search/email"></a>
 
 
-  <h6>My coding profiles</h6>
+  <h6><img src="https://img.icons8.com/ios/50/000000/code.png" width="15px" /> My coding profiles</h6>
   <a href="https://hackerrank.com/PragadeshBS"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/36/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"></a>
   <a href="https://leetcode.com/PragadeshBS"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/36/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"></a>  
   
