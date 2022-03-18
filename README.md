@@ -1,5 +1,7 @@
 # Hi there, I am **Pragadesh BS** < :octocat: /> #
 
+![Views](https://gpvc.arturio.dev/PragadeshBS)
+
 :book: Currently studying B.Tech Information Technology at MIT, Anna University 
 
 <!--
