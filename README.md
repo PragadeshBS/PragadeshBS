@@ -3,3 +3,4 @@
 - Pursuing Information Technology at Anna University, Chennai 🎓
 - Drop me a <a href="mailto:pragadeshbs@pm.me">mail</a> 📫
 - Let's connect on <a href="https://www.linkedin.com/in/pragadeshbs/">LinkedIn</a> 🤝
+<img src="https://log.cyclic.app/log/pragadeshbsGitHome" width="0px" />
